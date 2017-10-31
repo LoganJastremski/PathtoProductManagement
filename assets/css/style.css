@@ -136,6 +136,12 @@ form.signup input.form-control:focus {
   color: #444;
 }
 
+.mc-field-group{
+  clear:left;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color: #444;
+}
 
 
 
