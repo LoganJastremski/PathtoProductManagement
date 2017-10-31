@@ -125,6 +125,14 @@ form.signup input.form-control:focus {
 	border-color: #fd680e;
 }
 
+/* MailChimp */
+#mc_embed_signup{
+  clear:left;
+  font:14px Helvetica,Arial,sans-serif;
+}
+
+
+
 
 /* wrapper */
 
