@@ -30,6 +30,9 @@ h1 {
 
 h3 {
 	font-weight: 400;
+  font-family: 'Lato', sans-serif;
+  color: #444;
+
 }
 
 h4 {
@@ -128,7 +131,9 @@ form.signup input.form-control:focus {
 /* MailChimp */
 #mc_embed_signup{
   clear:left;
-  font:14px Helvetica,Arial,sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color: #444;
 }
 
 
