@@ -143,6 +143,19 @@ form.signup input.form-control:focus {
   color: #444;
 }
 
+#mc_embed_signup .mc-field-group input {
+    display: block;
+    width: 25%;
+    padding: 8px 0;
+    text-indent: 2%;
+}
+
+#mc_embed_signup form {
+    display: block;
+    position: relative;
+    padding: 10px 0 10px 3%;
+}
+
 
 
 /* wrapper */
