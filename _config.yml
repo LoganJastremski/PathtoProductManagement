@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://OCram85.github.io"
+url: "pathtopm.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: OCram85.github.io
+title: Path to Product Management
 
 # Short description of your site
 description: "A personal blog about Poweshell, Automation and more."
@@ -23,24 +23,21 @@ description: "A personal blog about Poweshell, Automation and more."
 
 # List of links in the navigation bar
 navbar-links:
-  Blog:
-    - Posts: "blog"
-    - Tags: "tags"
-  About:
-    - Me: "aboutme"
-    - This Blog: "aboutthisblog"
+  Slack: "https://slackin-sxvqqctlzo.now.sh"
+  Internships: "aboutme"
+  Leaders: "aboutthisblog"
 
 
 # --- Google custom search config --- #
 # search page name search -> /seach.md
-nav-search: "search"
+#nav-search: "search"
 # google-site-verification
 google-site-verification: 'mR7a1gt3MOM9w2PBMfwsJ2QyOwA8emkKgSFj5bvLgbU'
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.jpeg"
+avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -63,11 +60,11 @@ footer-img: "/img/concrete-texture.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: OCram85
-  email: "marco.blessing@googlemail.com"
+  name: Path to Product Management
+  email: "loganjastremski@gmail.com"
   facebook: # eg. daattali
-  github: OCram85    # eg. daattali
-  twitter: tar_honar
+  github:  # eg. daattali
+  twitter: PathtoPM
   reddit: # eg. daattali
   google-plus:  # eg. +DeanAttali or 109424658772469020925
   linkedin: marco-blessing-884642109  # eg. daattali
@@ -84,12 +81,12 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
+  rss: false
   facebook: false
   email: true
   twitter: true
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: true
   xing: false
@@ -115,7 +112,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "OCram85"
+#disqus: "OCram85"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
@@ -155,7 +152,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
@@ -165,7 +162,7 @@ defaults:
       show-avatar: false
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-link-tags: true
+link-tags: false
 
 # Exclude these files from production site
 exclude:

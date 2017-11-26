@@ -1,133 +1,65 @@
 ---
 layout: page
 title: Welcome
-show-avatar: true
-subtitle: ...to my personal blog about Powershell, Automation and more.
+show-avatar: false
+subtitle: Path to Product Management (Path to PM)’s vision is to create a diverse community of college students to promote communal learning, internship opportunities, and a supportive network to immerse within.
 bigimg:
-  - 'img/bigimg/bg-home.jpg': "Photo by Dariusz Sankowski on Unsplash"
+- 'img/bigimg/bg-home.jpg'
 use-site-title: true
 css: '/css/extend-home.css'
 ---
 
-<h1 class="text-center">Current Projects</h1>
+[//]: <> (<h1 class="text-center">Current Projects</h1>)
 
 <div class="spacer"></div>
 
 <div class="row text-center">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-    {%- assign gh-user = "OCram85"-%}
-    {%- assign gh-project = "Ponduit" -%}
+      {%- assign gh-project = "Slack" -%}
       <div class="project-card-front">
-        <a href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link">
+        <a href="https://slackin-sxvqqctlzo.now.sh" class="project-link">
           <span class="fa-stack fa-4x">
             <i class="fa fa-circle fa-stack-2x stack-color"></i>
             <i class="fa fa-terminal fa-stack-1x fa-inverse"></i>
           </span>
-          <h4>Ponduit</h4>
+          <h4>Slack</h4>
         </a>
         <hr class="seperator">
-        <p class="text-muted">A simple Phabricator Conduit client made with Powershell.</p>
+        <p class="text-muted">Check out our Slack community of college students looking to learn more about Product Managment.</p>
         <hr class="seperator">
-        <img src="https://img.shields.io/github/forks/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Fork" alt="Github" title="Github Forks">
-        <img src="https://img.shields.io/github/stars/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Stars" alt="Github" title="Github Stars">
       </div>
-    </div>
-  </div>
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <div class="project-card">
-    {%- assign gh-project = "PSCoverage" -%}
+      </div>
+      </div>
+      <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+      <div class="project-card">
+      {%- assign gh-project = "Internships" -%}
       <a target="_blank" href="https://github.com/OCram85/PSCoverage" class="project-link">
-        <span class="fa-stack fa-4x">
-          <i class="fa fa-circle fa-stack-2x stack-color"></i>
-          <i class="fa fa-file-code-o fa-stack-1x fa-inverse"></i>
-        </span>
-        <h4>PSCoverage</h4>
-        <hr class="seperator">
-        <p class="text-muted">A code coverage interface for coveralls.io. Based on Pester coverage reports.</p>
-        <hr class="seperator">
-        <img src="https://img.shields.io/github/forks/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Fork" alt="Github" title="Github Forks">
-        <img src="https://img.shields.io/github/stars/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Stars" alt="Github" title="Github Stars">
+      <span class="fa-stack fa-4x">
+      <i class="fa fa-circle fa-stack-2x stack-color"></i>
+      <img src="img/earth.png" />
+      </span>
+      <h4>Internships</h4>
+      <hr class="seperator">
+      <p class="text-muted">Find Product Management Internships around the Global. This hands on experince is involuable.</p>
+      <hr class="seperator">
       </a>
+      </div>
     </div>
-  </div>
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+    <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-    {%- assign gh-project = "PSCredentialStore" -%}
-      <a target="_blank" href="https://github.com/OCram85/PSCredentialStore" class="project-link">
-        <span class="fa-stack fa-4x">
-          <i class="fa fa-circle fa-stack-2x stack-color"></i>
-          <i class="fa fa-user-secret fa-stack-1x fa-inverse"></i>
-        </span>
-        <h4>PSCredentialStore</h4>
-        <hr class="seperator">
-        <p class="text-muted">A simple credential manager to store and reuse multiple credential objects.</p>
-        <hr class="seperator">
-        <img src="https://img.shields.io/github/forks/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Fork" alt="Github" title="Github Forks">
-        <img src="https://img.shields.io/github/stars/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Stars" alt="Github" title="Github Stars">
-      </a>
+    {%- assign gh-project = "Leaders" -%}
+    <a target="_blank" href="https://github.com/OCram85/PSCredentialStore" class="project-link">
+    <span class="fa-stack fa-4x">
+    <i class="fa fa-circle fa-stack-2x stack-color"></i>
+    <i class="fa fa-user-secret fa-stack-1x fa-inverse"></i>
+    </span>
+    <h4>Leaders</h4>
+    <hr class="seperator">
+    <p class="text-muted">Checkout thought leaders in Product Managemnent. They have valuable insight into this amazing profession.</p>
+    <hr class="seperator">
+    </a>
     </div>
   </div>
 </div>
 
-----
-
-<h1 class="text-center">Recent Posts</h1>
-<div class="spacer"></div>
-
-<div class="posts-list">
-  {% for post in site.posts limit:5 %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-      <h2 class="post-title">{{ post.title }}</h2>
-
-      {% if post.subtitle %}
-      <h3 class="post-subtitle">
-        {{ post.subtitle }}
-      </h3>
-      {% endif %}
-    </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <img src="{{ post.image }}">
-        </a>
-      </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
-    </div>
-
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
-    </div>
-    {% endif %}
-
-   </article>
-  {% endfor %}
-</div>
-
-<ul class="pager main-pager">
-  <li>
-    <a href="{{site.baseurl}}/blog">Archive </a>
-  </li>
-</ul>
