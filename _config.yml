@@ -24,7 +24,7 @@ description: "A personal blog about Poweshell, Automation and more."
 # List of links in the navigation bar
 navbar-links:
   Slack: "https://slackin-sxvqqctlzo.now.sh"
-  Internships: "aboutme"
+  Internships: "internships"
   Leaders: "leaders"
 
 
