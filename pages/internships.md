@@ -1,23 +1,33 @@
 ---
 layout: page
 permalink: "internships"
-title: Thought Leaders
+title: Internships
 #subtitle: FAQs about this blog
 show-avatar: false
 
 ---
 
-## <a href="https://www.kennorton.com/"> Ken Norton</a>
+## <a href="https://www.hulu.com/jobs/positions/odo25fws"> Hulu, Product Management Intern </a>
+Santa Monica, CA |
+Summer 2018
 
-Ken is a partner at GV (formerly Google Ventures) where he provides product and engineering support to more than 300 portfolio companies including Uber, Nest, Slack, Foundation Medicine, and Flatiron Health. Prior to moving to GV, Ken was a group product manager at Google. In his years as a PM at Google, Ken led product initiatives for Google Docs, Google Calendar, and Google Mobile Maps.
+Hulu’s Experience team is seeking a Product Management Intern who will be an exceptional addition to our rapidly growing Product team. In this position, you will be working with the team that is redefining TV through our best-in-class video streaming experience, which millions of customers use to access world-class premium video content.  The Product team sets the roadmap for the Hulu experience across all platforms including; web, mobile devices (Android and iOS) and connected TV devices like Apple TV, Roku, Xbox and PlayStation.  Our goal is to build the most engaging, personal and social TV experience in the market, and we want your help.  This isn’t a ‘get me some coffee’ internship.  We want and expect you to be an integral member of the team, to challenge us, learn from us, provide new thinking, and help us work towards our ambitious and exciting plans.
+
+The right person for this job is someone passionate about the media and technology industries, loves developing experiences that people love to use every day, while being metrics-driven and laser focused on the the goals of the business.
+
 
 ---
 
-## <a href="https://hunterwalk.com/"> Hunter Walk</a>
+## <a href="https://jobs.groupon.com/jobs/R14407"> Groupon, Technical Product Management Intern</a>
+Chicago, IL | Palo Alto, CA | Seattle, WA | San Francisco, CA |
+Summer 2018
 
-Partner at Homebrew. Seed stage venture fund serving founders who enable individuals and small biz to think big. Brewed in SF. Enjoyed nationwide. Find us at Homebrew.co 
 
-Previously: Led consumer product management at YouTube, delivering billions of playbacks a day across computers, phones, tablets and TVs. Joined Google in 2003 managing product and sales efforts for Google’s contextual advertising business. Founding member of the product and marketing team at Linden Lab, the creators of online virtual world Second Life. Earlier, a management consultant and also spent a year at Late Night with Conan O’ Brien, broadcasting to an audience of insomniacs, truckers and college students. Grinded a BA in History from Vassar and an MBA from Stanford University.
+We work in small, independent teams and use agile practices to move quality code into production quickly. Product designers collaborate with our software development engineers to conceive of and implement high impact technology that is defining how the world views local commerce. Our team is passionate about using technology to change the world.
+
+At Groupon, a Product Manager is effectively the CEO of their area, working with designers, developers and senior management to invent new features and experiences.
+
+Groupon is looking for motivated, entrepreneurial, independent-minded and creative technical students who are interested in launching their careers in Product Management. Based on your interests and skills and our business needs, you will be aligned with one of several product teams at Groupon. You will work on projects with major significance to Groupon, which will have an immediate impact. As part of our technology team, you’ll use a variety of technologies and development practices to build pioneering local commerce products used by hundreds of millions of people.
 
 ---
 
