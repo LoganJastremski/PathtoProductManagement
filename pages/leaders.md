@@ -8,8 +8,6 @@ show-avatar: false
 ---
 
 
-<iframe src="https://www.linkedin.com/"></iframe>
-
 
 ## <a href="https://www.kennorton.com/"> Ken Norton</a>
 
