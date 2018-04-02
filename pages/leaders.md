@@ -7,6 +7,10 @@ show-avatar: false
 
 ---
 
+
+<iframe src="https://www.linkedin.com/"></iframe>
+
+
 ## <a href="https://www.kennorton.com/"> Ken Norton</a>
 
 Ken is a partner at GV (formerly Google Ventures) where he provides product and engineering support to more than 300 portfolio companies including Uber, Nest, Slack, Foundation Medicine, and Flatiron Health. Prior to moving to GV, Ken was a group product manager at Google. In his years as a PM at Google, Ken led product initiatives for Google Docs, Google Calendar, and Google Mobile Maps.
@@ -15,7 +19,7 @@ Ken is a partner at GV (formerly Google Ventures) where he provides product and 
 
 ## <a href="https://hunterwalk.com/"> Hunter Walk</a>
 
-Partner at Homebrew. Seed stage venture fund serving founders who enable individuals and small biz to think big. Brewed in SF. Enjoyed nationwide. Find us at Homebrew.co 
+Partner at Homebrew. Seed stage venture fund serving founders who enable individuals and small biz to think big. Brewed in SF. Enjoyed nationwide. Find us at Homebrew.co
 
 Previously: Led consumer product management at YouTube, delivering billions of playbacks a day across computers, phones, tablets and TVs. Joined Google in 2003 managing product and sales efforts for Google’s contextual advertising business. Founding member of the product and marketing team at Linden Lab, the creators of online virtual world Second Life. Earlier, a management consultant and also spent a year at Late Night with Conan O’ Brien, broadcasting to an audience of insomniacs, truckers and college students. Grinded a BA in History from Vassar and an MBA from Stanford University.
 
@@ -48,4 +52,3 @@ Ryan is the Founder of Product Hunt (YC S14), created Startup Edition, worked as
 Ryan also a contributing writer to Hooked: How to Build Habit-Forming Products by Nir Eyal.
 
 Additionally, Ryan has written over 150 essays, many of which are featured in TechCrunch, Forbes, Pando, Fast Company, and The Next Web.
-
