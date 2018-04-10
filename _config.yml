@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "pathtopm.com"
+url: "pathtoproductmanagement.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,7 +17,7 @@ baseurl: ""
 title: Path to Product Management
 
 # Short description of your site
-description: "A personal blog about Poweshell, Automation and more."
+description: "Path to Product Management (Path to PM)’s vision is to create a diverse community of college students to promote communal learning, internship opportunities, and a supportive network to immerse within."
 
 # --- Navigation bar options --- #
 
@@ -67,7 +67,7 @@ author:
   twitter: PathtoPM
   reddit: # eg. daattali
   google-plus:  # eg. +DeanAttali or 109424658772469020925
-  linkedin: company/path-to-pm  # eg. daattali
+  linkedin: path-to-pm/  # eg. daattali
   xing: # eg. daattali
   stackoverflow: 5222635/ocram85  # eg. "3943160/daattali"
   snapchat:  # eg. daattali
