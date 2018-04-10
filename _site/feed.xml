@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Path to Product Management</title>
-    <description>A personal blog about Poweshell, Automation and more.</description>
+    <description>Path to Product Management (Path to PM)’s vision is to create a diverse community of college students to promote communal learning, internship opportunities, and a supportive network to immerse within.</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
