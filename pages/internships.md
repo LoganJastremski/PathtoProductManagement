@@ -2,59 +2,9 @@
 layout: page
 permalink: "internships"
 title: Internships
-#subtitle: FAQs about this blog
+#subtitle: Interships
 show-avatar: false
 
 ---
 
-## <a href="https://www.hulu.com/jobs/positions/odo25fws"> Hulu, Product Management Intern </a>
-Santa Monica, CA |
-Summer 2018
-
-Hulu’s Experience team is seeking a Product Management Intern who will be an exceptional addition to our rapidly growing Product team. In this position, you will be working with the team that is redefining TV through our best-in-class video streaming experience, which millions of customers use to access world-class premium video content.  The Product team sets the roadmap for the Hulu experience across all platforms including; web, mobile devices (Android and iOS) and connected TV devices like Apple TV, Roku, Xbox and PlayStation.  Our goal is to build the most engaging, personal and social TV experience in the market, and we want your help.  This isn’t a ‘get me some coffee’ internship.  We want and expect you to be an integral member of the team, to challenge us, learn from us, provide new thinking, and help us work towards our ambitious and exciting plans.
-
-The right person for this job is someone passionate about the media and technology industries, loves developing experiences that people love to use every day, while being metrics-driven and laser focused on the the goals of the business.
-
-
----
-
-## <a href="https://jobs.groupon.com/jobs/R14407"> Groupon, Technical Product Management Intern</a>
-Chicago, IL | Palo Alto, CA | Seattle, WA | San Francisco, CA |
-Summer 2018
-
-
-We work in small, independent teams and use agile practices to move quality code into production quickly. Product designers collaborate with our software development engineers to conceive of and implement high impact technology that is defining how the world views local commerce. Our team is passionate about using technology to change the world.
-
-At Groupon, a Product Manager is effectively the CEO of their area, working with designers, developers and senior management to invent new features and experiences.
-
-Groupon is looking for motivated, entrepreneurial, independent-minded and creative technical students who are interested in launching their careers in Product Management. Based on your interests and skills and our business needs, you will be aligned with one of several product teams at Groupon. You will work on projects with major significance to Groupon, which will have an immediate impact. As part of our technology team, you’ll use a variety of technologies and development practices to build pioneering local commerce products used by hundreds of millions of people.
-
----
-
-## <a href="https://www.linkedin.com/in/jannabastow/"> Janna Bastow</a>
-
-Janna is a product manager, taking the forms of a startup founder and CEO, consultant, and accidental event manager.
-
-As a product manager always looking for better tools, Janna founded ProdPad, product management software that helps you manage your roadmap and your product backlog. Janna also occasionally work with other companies as a trainer and mentor to help them figure out how to build and learn, without breaking the bank.
-
-In addition to that, Janna co-founded Mind the Product, an international product management community and series of events for fellow product people. It was started in 2010 with the very first ProductTank meetup in London and followed by the Mind the Product Conference in 2012, and it now has grown to consist of 50,000 members and sold out events in 100 cities around the world.
-
----
-
-## <a href="http://www.juliezhuo.com/"> Julie Zhuo</a>
-
-When you’re working for the the world’s largest social network, every task can seem huge. Enter Julie Zhuo from Facebook who brings the simplicity.
-
-Julie has an amazing way of breaking down challenges into language that motivates without somehow ignoring the difficulty of the task at hand. On top of that, it’s generally not a bad idea to get a look at how Facebook does things and Julie is a direct line into the machine.
-
----
-
-## <a href="http://ryanhoover.me/"> Ryan Hoover</a>
-
-Ryan is a product guy with a passion for startups, product design, and personal growth.
-
-Ryan is the Founder of Product Hunt (YC S14), created Startup Edition, worked as an EIR at Tradecraft, and was the Director of Product at PlayHaven.
-
-Ryan also a contributing writer to Hooked: How to Build Habit-Forming Products by Nir Eyal.
-
-Additionally, Ryan has written over 150 essays, many of which are featured in TechCrunch, Forbes, Pando, Fast Company, and The Next Web.
+## We are working on helping you find internship opportunities! Check back shortly when this service is live.
