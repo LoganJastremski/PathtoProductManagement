@@ -17,7 +17,7 @@ Ken is a partner at GV (formerly Google Ventures) where he provides product and 
 
 ## <a href="https://hunterwalk.com/"> Hunter Walk</a>
 
-Partner at Homebrew. Seed stage venture fund serving founders who enable individuals and small biz to think big. Brewed in SF. Enjoyed nationwide. Find us at Homebrew.co
+Partner at Homebrew. Seed stage venture fund serving founders who enable individuals and small businesses to think big. Brewed in San Francisco. Enjoyed nationwide. Find us at Homebrew.co
 
 Previously: Led consumer product management at YouTube, delivering billions of playbacks a day across computers, phones, tablets and TVs. Joined Google in 2003 managing product and sales efforts for Google’s contextual advertising business. Founding member of the product and marketing team at Linden Lab, the creators of online virtual world Second Life. Earlier, a management consultant and also spent a year at Late Night with Conan O’ Brien, broadcasting to an audience of insomniacs, truckers and college students. Grinded a BA in History from Vassar and an MBA from Stanford University.
 

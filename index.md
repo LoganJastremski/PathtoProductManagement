@@ -41,7 +41,7 @@ css: '/css/extend-home.css'
         </span>
         <h4>Internships</h4>
         <hr class="seperator">
-        <p class="text-muted">Find Product Management Internships around the Global. This hands on experince is involuable.</p>
+        <p class="text-muted">Find Product Management Internships around the globe. This hands on experince is invaluable.</p>
         <hr class="seperator">
       </a>
     </div>
